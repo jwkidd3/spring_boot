@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Implementation-Title: Spring-Boot-JPA
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: jwkidd3
+Implementation-Vendor-Id: com.kiddcorp.spring.samples
+Build-Jdk: 1.8.0_201
+Implementation-URL: http://projects.spring.io/spring-boot/spring-boot-
+ jpa/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
